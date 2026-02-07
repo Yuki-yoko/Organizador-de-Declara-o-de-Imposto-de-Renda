@@ -61,9 +61,11 @@ Ao desenvolver este projeto, foram aplicados os seguintes conceitos:
 
 ## 🚀 Conclusão
 
-Este projeto possibilitou a aplicação prática dos conceitos estudados em Excel, reforçando a importância da organização de dados, validações automáticas e documentação técnica. A ferramenta desenvolvida pode ser utilizada como apoio na preparação para a declaração do Imposto de Renda, tornando o processo mais organizado e eficiente.
+Este projeto possibilitou a aplicação prática dos conceitos estudados em Excel, reforçando a importância da organização de dados, validações automáticas e documentação técnica. 
+A ferramenta desenvolvida pode ser utilizada como apoio na preparação para a declaração do Imposto de Renda, tornando o processo mais organizado e eficiente.
 
 ## 👩‍💻 Autora
 
 Cristina Yuki Yokomizo
+
 Projeto desenvolvido como parte do desafio prático da plataforma DIO.
